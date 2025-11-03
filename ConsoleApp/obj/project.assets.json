@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Demo\\Temp\\GH-300\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\GitHub\\GH-300\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Demo\\Temp\\GH-300\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\GitHub\\GH-300\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\hahay\\.nuget\\packages\\",
-      "outputPath": "C:\\Demo\\Temp\\GH-300\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\GitHub\\GH-300\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hahay\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
